@@ -36907,7 +36907,7 @@ A.Ij.prototype={
 L(a){var s=A.aI9()
 return new A.xi(A.b7(["/",new A.a32(),"/privacy",new A.a33()],t.N,t.Ab),"/",new A.a34(),"Atera",s,!1,null)}}
 A.a34.prototype={
-$1(a){if(a.a==="/privacy")return A.aq5(new A.a31(),a,t.H)
+$1(a){if(a.a==="#/privacy")return A.aq5(new A.a31(),a,t.H)
 return null},
 $S:494}
 A.a31.prototype={
